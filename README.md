@@ -23,7 +23,7 @@ We tested the algorithm with 3 different domains:
 - Rotating Maze
 - Enemy Corridor
 
-Results and comparisons with [Eden Abadi, Ronen I. Brafman. 2020] have been shown in the report. 
+Results and comparisons with [Eden Abadi, Ronen I. Brafman. 2020] are written in the report. 
 
 ### Testing
 Required packages (can be installed with pip)
