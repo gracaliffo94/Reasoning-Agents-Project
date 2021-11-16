@@ -1,4 +1,5 @@
 # Reinforcement Learning in Regular Decision Processes
+![image](https://github.com/gracaliffo94/Reasoning-Agents-Project/blob/main/enemy.png?raw=true)
 Project repository for the course of Reasoning Agents 2021, Sapienza University of Rome. 
 
 The project has been developed by:
