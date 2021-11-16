@@ -1,6 +1,8 @@
 # Elective in AI - Reasoning Agents
  Reinforcement Learning in Regular Decision Processes
+ 
  Project repository for the course of Reasoning Agents 2021, Sapienza University of Rome.
+ 
  Lorenzo Guercio, Francesco Starna, Graziano Specchi, Kevin Munda
 
 
