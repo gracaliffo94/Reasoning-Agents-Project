@@ -11,7 +11,7 @@ The introduction of regular decision processes, as a form of a non-Markov decisi
 proposed to study reinforcement learning problems when the transition function depends on the whole history, rather
 than only on the current state. We implemented a probably approximately correct algorithm for learning regular
 decision processes, based on probabilistic automata learning. We finally did some experiments on three different
-domains in order to show which are the best characteristics that most fit the algorithm.
+domains in order to show the best characteristics that most fit our algorithm.
 
 # Presentation
 https://docs.google.com/presentation/d/1deul6f3_mxgKdNEyUGidxJ9r9it3LslS2hKDGr83yrw/edit?usp=sharing
